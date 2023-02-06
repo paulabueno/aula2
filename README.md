@@ -1,6 +1,6 @@
 # Aula 2
 
-Esse é meu repositório da Aula 2, um projeto de blog simples.
+Este é um repositorio da aula 2, clone do repositorio do André Fortunato editado por Paula Bueno.
 
 # Tecnologias utilizadas
 
@@ -28,4 +28,4 @@ git push
 
 # Contato
 
-rrandsky@gmail.com
+paulabueno.ferreira1@gmail.com
