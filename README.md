@@ -6,7 +6,8 @@ Meu primeiro repositorio no git.
 
 # Instruçoes de uso:
 
-1. ClonaR;
+1. Clonar
+
 2. Abrir index.html;
 3. A pagina deve ser exibida no navegador.
 
